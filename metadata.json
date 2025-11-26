@@ -1,0 +1,7 @@
+{
+  "name": "Vlugge Japie",
+  "description": "The Atomic Kitchen Calculator for Master Woodworkers. From photo to forensic quote in seconds.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
